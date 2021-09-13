@@ -1,0 +1,29 @@
+{
+  "name": "@adrianosotos/aloha-world",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "adrianosotos <sotos.adriano@gmail.com>",
+  "homepage": "https://github.com/adrianosotos/lerna-example#readme",
+  "license": "ISC",
+  "main": "lib/aloha-world.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://npm-registry.core.linximpulse.net/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrianosotos/lerna-example.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/adrianosotos/lerna-example/issues"
+  }
+}
